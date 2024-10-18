@@ -7,9 +7,6 @@ This project conducts a comprehensive Exploratory Data Analysis (EDA) of New Yor
 - Major Incidents: Large-scale disruptions affecting 50+ trains.
 Through this analysis, I provide insights that can help improve transit efficiency and give riders a better understanding of the system's challenges.
 
-## Project Overview
-The NYC subway system serves millions of passengers daily, but it also faces significant operational challenges. This project examines ridership patterns, delays, incidents, and other performance metrics across different subway lines to determine the worst-performing lines in 2023.
-
 ## Datasets
 The analysis is based on three publicly available datasets from [data.ny.gov](https://data.ny.gov):
 - **MTA Subway Major Incidents**: Tracking major incidents that delay 50+ trains.
