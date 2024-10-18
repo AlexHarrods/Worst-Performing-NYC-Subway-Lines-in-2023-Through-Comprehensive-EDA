@@ -1,4 +1,4 @@
-# Worst-Performing-NYC-Subway-Lines-in-2023-Through-Comprehensive-EDA
+# Worst-Performing NYC Subway Lines Through Comprehensive EDA
 
 # Project Overview
 This project conducts a comprehensive Exploratory Data Analysis (EDA) of New York City's subway system performance in 2023. The aim is to identify the worst-performing subway lines by analyzing data related to:
